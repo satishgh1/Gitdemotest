@@ -15,4 +15,10 @@ public class SeleniumTest {
 		System.out.println("elementsUI test in SeleniumTest");
 		
 	}
+	@Test
+	public void testUI()
+	{
+		System.out.println("testUI test in SeleniumTest");
+		
+	}
 }
