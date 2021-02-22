@@ -7,6 +7,7 @@ public class randomTest {
 		
 		System.out.println("Testing script");
 		System.out.println("Adding line for demo");
+		System.out.println("Adding third line for demo");
 	}
 
 }
