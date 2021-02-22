@@ -18,7 +18,8 @@ public class SeleniumTest {
 	@Test
 	public void testUI()
 	{
-		System.out.println("testUI test in SeleniumTest");
-		
+		System.out.println("testUI test in SeleniumTest");	
 	}
+	
+	
 }
